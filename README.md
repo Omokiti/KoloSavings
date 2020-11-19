@@ -1,2 +1,2 @@
 # KoloSavings
-a savings landing page
+a subpage of the KoloMoni-Web
